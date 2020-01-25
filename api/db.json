@@ -1,3 +1,8 @@
 {
-    "streams": []
+    "streams": [
+        { "id": "0", "name": "Steam0" },
+        { "id": "1", "name": "Steam1" },
+        { "id": "2", "name": "Steam2" },
+        { "id": "3", "name": "Steam3" }
+    ]
 }
