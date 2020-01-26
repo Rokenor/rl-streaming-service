@@ -14,6 +14,24 @@
       "title": "Second Stream",
       "description": "Create a second stream",
       "id": 3
+    },
+    {
+      "title": "Stream from user",
+      "description": "Custom user stream",
+      "userId": "108274137502131965481",
+      "id": 4
+    },
+    {
+      "title": "Unexpected behavior",
+      "description": "Didn't expect that",
+      "userId": "108274137502131965481",
+      "id": 5
+    },
+    {
+      "title": "Test stream",
+      "description": "This is test stream",
+      "userId": "108274137502131965481",
+      "id": 6
     }
   ]
 }
