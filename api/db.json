@@ -1,8 +1,19 @@
 {
-    "streams": [
-        { "id": "0", "name": "Steam0" },
-        { "id": "1", "name": "Steam1" },
-        { "id": "2", "name": "Steam2" },
-        { "id": "3", "name": "Steam3" }
-    ]
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Create a second stream",
+      "id": 2
+    },
+    {
+      "title": "Second Stream",
+      "description": "Create a second stream",
+      "id": 3
+    }
+  ]
 }
