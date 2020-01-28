@@ -13,12 +13,6 @@
       "id": 2
     },
     {
-      "title": "Edited Stream",
-      "description": "Create a second stream",
-      "userId": "108274137502131965481",
-      "id": 3
-    },
-    {
       "title": "Stream from user",
       "description": "Custom user stream",
       "userId": "108274137502131965481",
@@ -35,12 +29,6 @@
       "description": "This is test stream",
       "userId": "108274137502131965481",
       "id": 6
-    },
-    {
-      "title": "Next stream",
-      "description": "Description next stream",
-      "userId": "108274137502131965481",
-      "id": 7
     }
   ]
 }
